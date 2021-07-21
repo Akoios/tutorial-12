@@ -1,0 +1,8 @@
+gcloud
+google-auth
+protobuf
+python3-protobuf
+google-cloud
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-storage
